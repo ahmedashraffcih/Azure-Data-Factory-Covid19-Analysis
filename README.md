@@ -40,6 +40,6 @@ Contributions to enhance and expand the capabilities of this project are welcome
 ## Contact
 For any inquiries or feedback, feel free to contact the project maintainer:
 
-Ahmed Ashraff - ahmedashraffcih@email.com
+Ahmed Ashraff - ahmedashraffcih@gmail.com
 
 Feel free to customize and expand upon this README to better suit the specifics of your project.
