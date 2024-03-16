@@ -4,6 +4,10 @@
 Built a data ingestion pipeline in Azure Data lake to Visualize Countries With Highest Corona Virus Hospital Admissions Using Azure Data Factory(ADF), Azure Data Studio, Azure Data Lake Storage Gen2, Azure SQL Database, Azure Blob Storage, Dataflow, Data Brick Transformation and Hd-insight
 build production ready pipelines and create CI/CD pipelines in Azure Devops to release ADF pipelines to higher environments (Testing/ Production)
 
+## Architecture
+![System Architecture](https://github.com/ahmedashraffcih/Azure-Data-Factory-Covid19-Analysis/blob/main/imgs/architecture.png)
+![CI/CD](https://github.com/ahmedashraffcih/Azure-Data-Factory-Covid19-Analysis/blob/main/imgs/cicd.png)
+
 ## Features
 - Data Ingestion: Utilizes ADF to ingest Covid-19 data from various sources, ensuring a continuous flow of updated information.
 - Data Transformation: Cleanses and transforms raw data into a structured format suitable for analysis.
